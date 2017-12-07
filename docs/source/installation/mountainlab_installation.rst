@@ -52,7 +52,7 @@ Otherwise, if you are on a different operating system, use the following links f
 
 * :doc:`Qt5 (version 5.5 or later) <qt5_installation>` 
 * :doc:`NodeJS <nodejs_installation>`
-* :doc:`python3 together with some packages <python installation>` (see above)
+* :doc:`python3 together with some packages <python installation>` (numpy >= 1.13.0, scipy >= 1.0.0, pybind11 >= 2.2.1, cppimport >= 17.10)
 * :doc:`FFTW <fftw_installation>`
 * Optional: matlab or octave
 
@@ -153,4 +153,3 @@ If you get stuck
 ----------------
 
 If necessary, contact Jeremy. I'm happy to help, and we can improve the docs. I'm also happy to invite you to the slack team for troubleshooting, feedback, etc.
-
